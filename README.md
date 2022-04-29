@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam-2202
+- 👋 Hi, I’m @hashing-vims
 - 👀 I’m interested in Web development and modern web technologies.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on freelance or part time projects.
