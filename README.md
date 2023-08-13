@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hashing-vims
+- 👋 Hi, I’m @shivam-singh-fse
 - 👀 I’m interested in Web development and modern web technologies.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on freelance or part time projects.
+- 💞️ I’m looking to collaborate on freelance or part time or open source projects.
 - 📫 You can reach me on shivam.singh.22@outlook.com
 
 <!---
